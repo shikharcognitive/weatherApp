@@ -2,7 +2,7 @@ import React from 'react';
 import { render , fireEvent, waitFor} from '@testing-library/react';
 import App from './App';
 import CountryPage from './components/countryPage';
-import { BrowserRouter , para} from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import CountryDetails from './components/countryDetails';
 
 // Render App and Home page
