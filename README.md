@@ -1,2 +1,19 @@
 # weatherApp
 get weather for Countries
+
+# React + Typescript + Router + Axios App
+-- App is created using these...
+
+# Clone App
+-- To clone the App...
+
+# yarn install
+-- To Install all the dependencies...
+
+# yarn start
+-- To run app locally on system...
+# yarn test
+-- To run test cases...
+
+# yarn build 
+-- To build App for server...
