@@ -45,8 +45,7 @@ const CountryDetails: FC<CountryDetailsProps> = (props:any) => {
 
 const toggleDetails =()=> {
   setShowTemp(!showtemp);
-}
-
+};
 
 
   return (
